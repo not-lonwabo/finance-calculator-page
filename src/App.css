@@ -36,3 +36,19 @@
     transform: rotate(360deg);
   }
 }
+
+table {
+  /* border: 2px solid forestgreen; */
+  width: 100%;
+  font-family: Roboto,Arial,sans-serif;
+  /* width: 800px; */
+  /* height: 200px; */
+}
+
+th {
+  border-bottom: 1px solid black;
+}
+
+td {
+  text-align: center;
+}
